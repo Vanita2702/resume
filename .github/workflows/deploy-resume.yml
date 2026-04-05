@@ -1,4 +1,4 @@
-name: Pages CI-CD Demo
+name: Deploy Resume to GitHub Pages
 
 on:
   push:
